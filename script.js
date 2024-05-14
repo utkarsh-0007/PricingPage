@@ -40,6 +40,5 @@ checkbox.addEventListener('change',()=>{
                 $399.99 <br>
                 2 TB Storage <br> 10 Users Allowed
               </div>
-        `;
-    }
+        `;  }
 });
